@@ -1,5 +1,6 @@
 "use client";
 import React, { useEffect, useRef } from "react";
+import { GithubIcon } from "lucide-react";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
@@ -42,6 +43,13 @@ const HeroSection = () => {
           <Link href="/dashboard">
             <Button size="lg" className="px-8">
               Get Started
+            </Button>
+          </Link>
+          
+          <Link href="https://github.com/Adiaparmar">
+            <Button size="lg" className="px-8" variant="outline">
+              <GithubIcon />
+              Github
             </Button>
           </Link>
         </div>
