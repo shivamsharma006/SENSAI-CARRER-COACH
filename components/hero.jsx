@@ -46,7 +46,7 @@ const HeroSection = () => {
             </Button>
           </Link>
           
-          <Link href="https://github.com/Adiaparmar">
+          <Link href="https://github.com/shivamsharma006">
             <Button size="lg" className="px-8" variant="outline">
               <GithubIcon />
               Github
