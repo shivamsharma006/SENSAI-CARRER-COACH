@@ -1,12 +1,12 @@
-# 🚀 ElevateAI
+# 🚀 SensAI
 
-Welcome to **ElevateAI**, your AI-powered career coach! 🤖 This cutting-edge SaaS application is designed to revolutionize the way you prepare for your career journey. Whether you're a fresh graduate, a seasoned professional, or someone looking to switch careers, ElevateAI provides personalized tools and insights to help you succeed. 🎉
+Welcome to **SensAI**, your AI-powered career coach! 🤖 This cutting-edge SaaS application is designed to revolutionize the way you prepare for your career journey. Whether you're a fresh graduate, a seasoned professional, or someone looking to switch careers, SensAI provides personalized tools and insights to help you succeed. 🎉
 
 ## 📚 About the Project
 
-ElevateAI combines advanced AI technology with scalable architecture to provide a seamless learning experience. With features powered by Gemini AI, it generates tailored resumes, cover letters, quizzes, and summaries, making learning effective and efficient. Whether you're an individual learner or a large institution, this platform adapts to your needs. 📈
+SensAI combines advanced AI technology with scalable architecture to provide a seamless learning experience. With features powered by Gemini AI, it generates tailored resumes, cover letters, quizzes, and summaries, making learning effective and efficient. Whether you're an individual learner or a large institution, this platform adapts to your needs. 📈
 
-### Key Goals of ElevateAI:
+### Key Goals of SensAI:
 
 - 📝 Simplify the creation of personalized learning materials
 - 🔒 Enable secure and seamless access to resources
@@ -86,55 +86,3 @@ Before starting, ensure you have the following installed:
    ```
    npm run build
    ```
-
----
-
-## 🤝 Contribution
-
--We welcome contributions to make the AI Study Material Generator even better! Follow these steps to contribute:
-
-1. **Fork the Project**
-
-   Create a copy of the repository by forking it.
-   Create a Feature Branch
-
-   ```
-   git checkout -b feature/AmazingFeature
-
-   ```
-
-2. **Commit Your Changes**
-
-   ```
-   git commit -m 'Add some AmazingFeature'
-   ```
-
-3. **Push to the Branch**
-
-   ```
-   git push origin feature/AmazingFeature
-
-   ```
-
-4. **Open a Pull Request**
-
-   Submit your changes through a pull request for review.
-
----
-
-## 📜 License
-
-Distributed under the MIT License. See LICENSE for more details.
-
-## 📞 Contact
-
-Project Maintainer:
-
-- Aditya Kumar Singh
-- Email: adiaparmar@gmail.com
-- GitHub: Adiaparmar
-
----
-
-Feel free to reach out with any questions, ideas, or feedback!
-With ElevateAI, you can effortlessly build your career toolkit, gain valuable insights, and prepare for success. Start your journey today and unlock your full potential! 🌟
