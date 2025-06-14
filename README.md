@@ -2,6 +2,9 @@
 
 Welcome to **SensAI**, your AI-powered career coach! 🤖 This cutting-edge SaaS application is designed to revolutionize the way you prepare for your career journey. Whether you're a fresh graduate, a seasoned professional, or someone looking to switch careers, SensAI provides personalized tools and insights to help you succeed. 🎉
 
+![Screenshot](https://github.com/shivamsharma006/SENSAI-CARRER-COACH/blob/main/Screenshot%202025-06-14%20161433.png?raw=true)
+
+
 ## 📚 About the Project
 
 SensAI combines advanced AI technology with scalable architecture to provide a seamless learning experience. With features powered by Gemini AI, it generates tailored resumes, cover letters, quizzes, and summaries, making learning effective and efficient. Whether you're an individual learner or a large institution, this platform adapts to your needs. 📈
