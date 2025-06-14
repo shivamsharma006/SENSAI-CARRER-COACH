@@ -1,7 +1,12 @@
 # 🚀 SensAI
 
 Welcome to **SensAI**, your AI-powered career coach! 🤖 This cutting-edge SaaS application is designed to revolutionize the way you prepare for your career journey. Whether you're a fresh graduate, a seasoned professional, or someone looking to switch careers, SensAI provides personalized tools and insights to help you succeed. 🎉
-https://github.com/shivamsharma006/SENSAI-CARRER-COACH/blob/main/Website%20Screenshots/Screenshot%202025-06-14%20161433.png?raw=true
+![](https://github.com/shivamsharma006/SENSAI-CARRER-COACH/blob/main/Website%20Screenshots/Screenshot%202025-06-14%20161433.png?raw=true)
+![](https://github.com/shivamsharma006/SENSAI-CARRER-COACH/blob/main/Website%20Screenshots/Screenshot%202025-06-14%20161451.png?raw=true)
+![](https://github.com/shivamsharma006/SENSAI-CARRER-COACH/blob/main/Website%20Screenshots/Screenshot%202025-06-14%20161459.png?raw=true)
+![](https://github.com/shivamsharma006/SENSAI-CARRER-COACH/blob/main/Website%20Screenshots/Screenshot%202025-06-14%20161523.png?raw=true)
+![](https://github.com/shivamsharma006/SENSAI-CARRER-COACH/blob/main/Website%20Screenshots/Screenshot%202025-06-14%20161607.png?raw=true)
+![](https://github.com/shivamsharma006/SENSAI-CARRER-COACH/blob/main/Website%20Screenshots/Screenshot%202025-06-14%20161623.png?raw=true)
 
 
 
